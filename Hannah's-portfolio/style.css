@@ -1,0 +1,52 @@
+header {
+  min-height: 100vh;
+  margin-top: 55px;
+  background-image: url('https://hdwallsbox.com/wallpapers/l/1920x1080/80/oahu-palm-trees-reflections-sunset-1920x1080-79778.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+main {
+  scroll-behavior: smooth;
+}
+
+section {
+  align-items: center;
+}
+
+.row {
+  margin: 0 !important;
+}
+
+#portfolio {
+  background-color: #9158bc;
+    color: white;
+  justify-content: center;
+}
+
+.portfolio-item {
+  width: 30%;
+  margin: 10px;
+}
+
+#about {
+  background-color: #f7bef3;
+  color: white;
+}
+
+#about img {
+  border-radius: 50%;
+  height: 90%;
+  color: black;
+}
+
+#hobbies {
+  background-color: #9158bc;
+  color: white;
+}
+
